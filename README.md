@@ -49,8 +49,7 @@ int main() {
 }
 ```
 o/p:
-
-![image](https://github.com/user-attachments/assets/dc5dfbce-0900-48c7-84ee-7ec1fb13679d)
+![Screenshot 2024-10-22 203218](https://github.com/user-attachments/assets/e496d72d-5f8d-42a2-8135-e7c4f912c5e8)
 
 
 2. Linear Search
@@ -85,7 +84,8 @@ int main() {
 ```
 o/p:
 
-![image](https://github.com/user-attachments/assets/dbab5d8b-644e-4774-a41d-28e9d2a52acb)
+
+![Screenshot 2024-10-22 203253](https://github.com/user-attachments/assets/da1bf06f-2153-4c81-bdfc-3f25841583df)
 
 
 # Conclusion
